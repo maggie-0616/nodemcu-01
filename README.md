@@ -6,6 +6,12 @@ En kort och enkel guide till hur ett blinkande LED-system fungerar på en Arduin
 
 I detta projekt används microprocessorn **NodeMCU**, som bygger på mikrokontrollern **ESP8266**. NodeMCU kan programmeras med Arduino-kod och har flera digitala portar som gör den enkel att använda för nybörjare.
 
+* För att ESP8266 ska funka så måste man kopiera en URL-kod:
+```cpp
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+```
+* Sedan trycker man på Arduino loggan->```Prefrences```-> klistra in URL-koden i rutan.
+  
 ---
 
 
