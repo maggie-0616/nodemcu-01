@@ -10,7 +10,7 @@ I detta projekt används microprocessorn **NodeMCU**, som bygger på mikrokontro
 ```cpp
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
-* Sedan trycker man på Arduino loggan->```Prefrences```-> klistra in URL-koden i rutan.
+* Sedan trycker man på Arduino IDE (i vänstra hörnet uppe på MAC)->```Prefrences```-> klistra in URL-koden i rutan.
   
 ---
 
