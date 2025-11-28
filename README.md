@@ -32,6 +32,8 @@ Det betyder att porten ska skicka signaler (HIGH eller LOW) för att styra LED-l
 
 ## Kod med enkla förklaringar
 
+* För att hitta blink programmet i Arduine IDE så måste man gå in på ```file```-> ```examples```-> ```01.Basics```->```Blink```
+
 ```cpp
 // the setup function runs once when you press reset or power the board
 void setup() {
