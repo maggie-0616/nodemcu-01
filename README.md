@@ -4,7 +4,7 @@ En kort och enkel guide till hur ett blinkande LED-system fungerar på en Arduin
 
 ## Mikroprocessor som används
 
-I detta projekt används microprocessorn **NodeMCU**, som bygger på mikrokontrollern **ESP8266**. Den är liten, snabb och har inbyggt **WiFi**, vilket gör den perfekt för **IoT** (alltså saker som kopplas till internet och kan styras eller skicka data). NodeMCU kan programmeras med Arduino-kod och har flera digitala portar som gör den enkel att använda för nybörjare.
+I detta projekt används microprocessorn **NodeMCU**, som bygger på mikrokontrollern **ESP8266**. NodeMCU kan programmeras med Arduino-kod och har flera digitala portar som gör den enkel att använda för nybörjare.
 
 ---
 
