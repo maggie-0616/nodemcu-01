@@ -52,4 +52,4 @@ void loop() {
 
 * ```digitalWrite()``` styr portens nivå (HIGH = på, LOW = av).
 * ```delay()``` pausar programmet i ett antal millisekunder.
-* Programmet tänder och släcker LED-lampan med ett intervall på 1 sekund (när nummret i delay är 1000).
+* Programmet tänder och släcker LED-lampan med ett intervall på 1 sekund när nummret i parantesen är 1000 (millisekunder).
