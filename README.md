@@ -13,10 +13,10 @@ I detta projekt används microprocessorn **NodeMCU**, som bygger på mikrokontro
 
 Arduino-program (sketcher) består alltid av två huvudfunktioner:
 
-* **setup()**
+* ```setup()```
   Körs **en gång** när kortet startar. Här görs inställningar, t.ex. att ange vilka portar som är in- eller utgångar.
 
-* **loop()**
+* ```loop()```
   Körs **om och om igen**, i en evig loop. Här skriver man programlogiken som ska upprepas.
 
 ## Portinitialisering
