@@ -29,6 +29,7 @@ pinMode(LED_BUILTIN, OUTPUT);
 ```
 
 Det betyder att porten ska skicka signaler (HIGH eller LOW) för att styra LED-lampan.
+* För att välja port (input/outout) så trycker man på ```tools```->```port```-> Sen väljer du rätt port.
 
 ## Kod med enkla förklaringar
 
